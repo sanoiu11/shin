@@ -1,0 +1,10 @@
+@charset "UTF-8";
+.contents {
+	width:100%;
+	position:relative;
+	z-index:98;
+}
+
+.contents img {
+	max-width:100%;
+}
